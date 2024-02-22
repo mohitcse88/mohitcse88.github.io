@@ -9,3 +9,5 @@ It now includes steps for Github
 
 Best study is Enjoying study 
 
+This is updated by rishav kumar
+

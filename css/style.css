@@ -46,7 +46,24 @@ a {
 }
 
 
-/* Mobile first */
+label {
+    font-size: 1rem;
+}
+
+input, textarea {
+    border-radius: 0.4rem;
+}
+
+button {
+    padding: 0.5rem 2rem ;
+    border: 2px solid #333;
+    border-radius: 0.5rem;
+}
+
+button:hover {
+    background: #111;
+    color: #f5f5f5;
+}
 
 
 

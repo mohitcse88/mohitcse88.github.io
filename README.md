@@ -1,14 +1,2 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-This tutorial fouces mainly on Git and using Github as its remote
-
-This repository is built step by step in the tutorial.
-
-It now includes steps for Github
-
-Best study is Enjoying study 
-
-This is updated by rishav kumar
-
-Github is biggest code hosting platform
+# [Mohit Kumar](https://mohitcse88.github.io/) 
+# Full Stack Software Developer
